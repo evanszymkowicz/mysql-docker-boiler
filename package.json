@@ -1,0 +1,25 @@
+{
+  "name": "mysql-docker-boiler",
+  "version": "1.0.0",
+  "description": "",
+  "proxy": "http://server:8000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanszymkowicz/mysql-docker-boiler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evanszymkowicz/mysql-docker-boiler/issues"
+  },
+  "homepage": "https://github.com/evanszymkowicz/mysql-docker-boiler#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "webpack": "^4.43.0"
+  }
+}
